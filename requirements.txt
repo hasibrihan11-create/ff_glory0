@@ -3,3 +3,5 @@ pycryptodome
 protobuf
 protobuf-decoder
 urllib3
+Flask
+gunicorn
